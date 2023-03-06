@@ -27,7 +27,7 @@ I like to work on different technologies and love it when various technology dom
 
 - 🔭 I’m currently working on Web Application and mobile application projects
 - 🌱 I’m currently learning more about React, Vue and Flutter
-- 💬 Ask me about tech, pixelart, music, anime
+- 💬 Ask me about tech, manga, music, anime
 
 ![Deepak’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak2299&count_private=true&show_icons=true&theme=radical)
 
